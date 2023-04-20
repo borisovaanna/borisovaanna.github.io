@@ -1,0 +1,20 @@
+#skills-section {
+  color: tomato;
+  font-size: 10px;
+  text-align: left;
+}
+
+.link {
+  color: orchid;
+  font-size: 25px;
+  text-align: right;
+}
+
+h4 {
+  color: olive;
+  text-align: center;
+}
+
+p {
+    background-color: navy;
+}
